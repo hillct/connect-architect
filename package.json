@@ -16,12 +16,12 @@
     "pm": "npm",
     "dependencies": {
         "architect": "~0.1.4",
-        "connect": "1.8.7",
+        "connect": "3.5.0",
         "netutil": "~0.0.1",
         "mime": ">= 0.0.1"
     },
     "devDependencies": {
-        "request": "2.11.1"
+        "request": "2.79.0"
     },
     "scripts": {
         "test": "node test/all.js"
